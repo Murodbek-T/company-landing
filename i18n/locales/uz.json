@@ -1,0 +1,177 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "works": "Xizmatlar",
+    "about": "Biz haqimizda",
+    "order": "Onlayn buyurtma"
+  },
+  "home": {
+    "label": "Hujjatlar tarjimasi · Qarshi",
+    "titleLineOne": "Keyingi eshikni ochadigan",
+    "titleLineTwo": "so‘zlar.",
+    "description": "Puxta rasmiylashtirish va zarur holatlarda notarial tasdiqlash bo‘yicha yordam bilan aniq hujjat tarjimasi.",
+    "primaryAction": "Onlayn buyurtma berish",
+    "secondaryAction": "Xizmatlarni ko‘rish",
+    "aboutPreviewLabel": "Biz kimmiz",
+    "aboutPreviewTitle": "Muhim hujjatlar jarayonini sodda va tushunarli qiladigan kichik jamoa.",
+    "aboutPreviewDescription": "Har bir pasport, diplom, sertifikat yoki rasmiy hujjat inson hayotidagi keyingi muhim qadam bilan bog‘liq. Biz bunga jiddiy yondashamiz va jarayonni xotirjam hamda tushunarli qilamiz.",
+    "learnMore": "AB Translation bilan tanishing",
+    "worksPreviewLabel": "Hujjatlar tarjimasi",
+    "worksPreviewTitle": "Aniq narxlar. E’tiborli ish. Rasmiy natija.",
+    "viewAllWorks": "Hujjat turlarini ko‘rish"
+  },
+  "stats": {
+    "label": "Har bir raqam ortida haqiqiy insonlar bor",
+    "titleLineOne": "Ishonch",
+    "titleLineTwo": "hujjatma-hujjat yaratiladi.",
+    "description": "Har bir raqam ortida talaba, oila, sayohatchi yoki yangi imkoniyatga tayyorlanayotgan inson bor.",
+    "branches": "Qarshidagi filiallar",
+    "branchesDetail": "Hujjat tarjimasi va notarial rasmiylashtirish bo‘yicha yordam uchun ikki qulay manzil.",
+    "customers": "Xizmat ko‘rsatilgan mijozlar",
+    "customersDetail": "O‘zlari uchun muhim bo‘lgan hujjatlarni bizga ishonib topshirgan insonlar.",
+    "documents": "Tarjima qilingan / xizmat ko‘rsatilgan hujjatlar",
+    "documentsDetail": "Kundalik, ta’lim va rasmiy ehtiyojlar uchun puxta tayyorlangan hujjatlar.",
+    "bottomNote": "Sizning hujjatingiz oddiy qog‘oz emas. Biz unga aynan shunday munosabatda bo‘lamiz."
+  },
+  "works": {
+    "startingFrom": "Narxi quyidagidan boshlanadi",
+    "pageLabel": "Xizmatlar va hujjat turlari",
+    "pageTitleLineOne": "Keyingi qadamingiz uchun",
+    "pageTitleLineTwo": "tayyor hujjatlar.",
+    "pageDescription": "Ommabop hujjat turlari, boshlang‘ich narxlar va namunaviy ko‘rinishlarni ko‘ring. Hujjatingiz ro‘yxatda bo‘lmasa ham, so‘rov yuboring — sizga mos yechimni topishga yordam beramiz.",
+    "features": {
+      "notary": "Notarius uchun tayyorlash",
+      "formatting": "Puxta rasmiylashtirish",
+      "fast": "Tezkor tarjima imkoniyati",
+      "academic": "Ta’lim hujjatlari bo‘yicha yordam",
+      "official": "Rasmiy hujjat formati"
+    },
+    "noteTitle": "Boshqa hujjatni tarjima qilish kerakmi?",
+    "noteText": "Muammo yo‘q. Surat yoki qisqa tavsif bilan so‘rov yuboring. Ish boshlanishidan oldin hujjatni ko‘rib chiqamiz va nimalar kerakligini aytamiz.",
+    "orderNow": "Buyurtma berish",
+    "passport": {
+      "title": "Pasport tarjimasi",
+      "description": "Pasport ma’lumotlarining aniq tarjimasi — ism-shariflar, yozilish usuli, rasmiy format va hujjat tuzilishiga e’tibor bilan.",
+      "price": "35 000 so‘mdan",
+      "badge": "Ommabop",
+      "view": "Namunani ko‘rish"
+    },
+    "diploma": {
+      "title": "Diplom tarjimasi",
+      "description": "O‘qish, ish va ariza topshirish uchun diplomlar, ilovalar hamda ta’limga oid hujjatlar tarjimasi.",
+      "price": "50 000 so‘mdan",
+      "badge": "Ta’lim",
+      "view": "Namunani ko‘rish"
+    },
+    "birthCertificate": {
+      "title": "Tug‘ilganlik guvohnomasi tarjimasi",
+      "description": "Ismlar, sanalar, muhrlar va hujjat formati saqlangan holda tug‘ilganlik guvohnomasining aniq tarjimasi.",
+      "price": "40 000 so‘mdan",
+      "badge": "Rasmiy",
+      "view": "Namunani ko‘rish"
+    },
+    "marriageCertificate": {
+      "title": "Nikoh guvohnomasi tarjimasi",
+      "description": "Nikoh guvohnomalari va oilaviy holatga oid hujjatlarning puxta tayyorlangan tarjimasi.",
+      "price": "40 000 so‘mdan",
+      "badge": "Rasmiy",
+      "view": "Namunani ko‘rish"
+    },
+    "schoolCertificate": {
+      "title": "Maktab attestati tarjimasi",
+      "description": "Maktab attestatlari, baholar varaqasi va ta’limga oid qo‘shimcha hujjatlar tarjimasi.",
+      "price": "45 000 so‘mdan",
+      "badge": "Ta’lim",
+      "view": "Namunani ko‘rish"
+    },
+    "drivingLicense": {
+      "title": "Haydovchilik guvohnomasi tarjimasi",
+      "description": "Safar, ariza va rasmiy foydalanish uchun haydovchilik guvohnomasining rasmiy formatdagi tarjimasi.",
+      "price": "35 000 so‘mdan",
+      "badge": "Shaxsiy hujjat",
+      "view": "Namunani ko‘rish"
+    },
+    "medicalCertificate": {
+      "title": "Tibbiy ma’lumotnoma tarjimasi",
+      "description": "Asl hujjat tuzilishini tushunarli saqlagan holda tibbiy ma’lumotnoma va qo‘shimcha hujjatlarning e’tiborli tarjimasi.",
+      "price": "50 000 so‘mdan",
+      "badge": "Ma’lumotnoma",
+      "view": "Namunani ko‘rish"
+    },
+    "powerOfAttorney": {
+      "title": "Ishonchnoma tarjimasi",
+      "description": "Ismlar, sanalar va rasmiy iboralarga e’tibor bilan ishonchnoma hamda yuridik hujjatlar tarjimasi.",
+      "price": "60 000 so‘mdan",
+      "badge": "Yuridik",
+      "view": "Namunani ko‘rish"
+    },
+    "other": {
+      "title": "Boshqa hujjat",
+      "description": "Kerakli hujjat ro‘yxatda yo‘qmi? Surat yoki qisqa tavsif yuboring, siz uchun mos variantni ko‘rib chiqamiz.",
+      "price": "Narx so‘rov bo‘yicha",
+      "badge": "Moslashuvchan",
+      "view": "So‘rov yuborish"
+    }
+  },
+  "about": {
+    "pageLabel": "AB Translation Center haqida",
+    "pageTitleLineOne": "Tarjima — bu",
+    "pageTitleLineTwo": "oldinga yurishga yordam.",
+    "pageDescription": "Biz Qarshida faoliyat yurituvchi tarjima markazimiz. Biz aniq, tushunarli va amalda foydalanishga tayyor bo‘lishi kerak bo‘lgan hujjatlar bilan ishlaymiz. O‘qish, sayohat, ish, ariza topshirish yoki huquqiy masalalarda til bilan bog‘liq qismni siz uchun osonlashtiramiz.",
+    "quote": "Sifatli tarjima hujjatlaringizni topshirishdan oldin sizga ishonch beradi.",
+    "locationLabel": "Faoliyat yuritadigan joyimiz",
+    "valuesLabel": "Ishimizga yo‘l ko‘rsatadigan qadriyatlar",
+    "values": {
+      "accuracyTitle": "Har bir detal muhim",
+      "accuracyText": "Ismlar, sanalar, muhrlar va format muhim. Taxmin qilib bo‘lmaydigan tafsilotlarni albatta tekshiramiz.",
+      "trustTitle": "Aniqlik orqali ishonch",
+      "trustText": "Nima kerakligi, narxi va keyingi jarayonni ortiqcha murakkabliksiz tushuntiramiz.",
+      "careTitle": "Insoniy yondashuv",
+      "careText": "Savol berishingiz mumkin. Hujjatlar bilan bog‘liq jarayonni siz uchun yengilroq qilishga yordam beramiz."
+    },
+    "journeyLabel": "Biz qanday ishlaymiz",
+    "journeyOneTitle": "Siz so‘rov yuborasiz",
+    "journeyOneText": "Qaysi hujjat borligini, qaysi tillarga tarjima kerakligini va notarial tasdiq zarurligini yozing.",
+    "journeyTwoTitle": "Biz tafsilotlarni ko‘rib chiqamiz",
+    "journeyTwoText": "Ish hajmi, muddat va narxni tasdiqlaymiz, shunda siz nimani kutishni aniq bilasiz.",
+    "journeyThreeTitle": "Siz tayyor hujjatni olasiz",
+    "journeyThreeText": "Tarjimangizni keyingi qadamingiz uchun puxta va e’tibor bilan tayyorlaymiz."
+  },
+  "form": {
+    "label": "Onlayn buyurtma",
+    "fullName": "To‘liq ism",
+    "phone": "Telefon raqami",
+    "documentType": "Hujjat turi",
+    "selectDocument": "Hujjat turini tanlang",
+    "fromLanguage": "Qaysi tildan tarjima",
+    "toLanguage": "Qaysi tilga tarjima",
+    "selectLanguage": "Tilni tanlang",
+    "message": "Xabar / qo‘shimcha ma’lumot",
+    "submit": "So‘rov yuborish",
+    "success": "So‘rovingiz yuborishga tayyor. Tez orada siz bilan bog‘lanamiz.",
+    "responseNote": "Imkon qadar tezroq javob berishga harakat qilamiz.",
+    "helpTitle": "Hujjatingiz uchun aniq boshlanish.",
+    "helpText": "Avval asosiy ma’lumotlarni yuboring. Agar surat, skan yoki qo‘shimcha tafsilot kerak bo‘lsa, sizga xabar beramiz.",
+    "notaryNote": "Notarial tasdiqlash bo‘yicha yordam bilan hujjatlar tarjimasi.",
+    "documentTypes": {
+      "passport": "Pasport",
+      "diploma": "Diplom",
+      "certificate": "Sertifikat / guvohnoma",
+      "other": "Boshqa hujjat"
+    },
+    "pageTitleLineOne": "Keyingi qadamingiz",
+    "pageTitleLineTwo": "xabar bilan boshlanadi.",
+    "pageDescription": "Asosiy ma’lumotlarni formaga kiriting. Hujjat bo‘yicha savolingizni aniq rejaga aylantirishga yordam beramiz."
+  },
+  "footer": {
+    "description": "Muhim qadamlarda sizga yordam beradigan aniq va e’tiborli hujjatlar tarjimasi.",
+    "navigation": "Navigatsiya",
+    "contact": "Aloqa",
+    "branches": "Bizning filiallarimiz",
+    "branchOne": "Qarshi Davlat xizmatlari markazi",
+    "branchTwo": "Qarshi Notarius 1",
+    "notaryNote": "Notarial tasdiqlash bo‘yicha yordam bilan hujjatlar tarjimasi.",
+    "copyright": "© 2025–2026 AB Translation Center. Barcha huquqlar himoyalangan.",
+    "madeWith": "Qarshida e’tibor bilan yaratildi"
+  }
+}

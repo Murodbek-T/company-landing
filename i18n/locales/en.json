@@ -1,0 +1,177 @@
+{
+  "nav": {
+    "home": "Home",
+    "works": "Works",
+    "about": "About",
+    "order": "Online order"
+  },
+  "home": {
+    "label": "Document translation · Karshi",
+    "titleLineOne": "Words that open",
+    "titleLineTwo": "the next door.",
+    "description": "Clear document translation with careful formatting and notary approval support when you need it.",
+    "primaryAction": "Start online order",
+    "secondaryAction": "View services",
+    "aboutPreviewLabel": "Who we are",
+    "aboutPreviewTitle": "A small team making important documents feel less complicated.",
+    "aboutPreviewDescription": "Every passport, diploma, certificate, and official paper carries a real next step in someone’s life. We take that seriously, while keeping the process calm and clear.",
+    "learnMore": "Meet AB Translation",
+    "worksPreviewLabel": "Document translation",
+    "worksPreviewTitle": "Clear prices. Careful work. Official-looking results.",
+    "viewAllWorks": "Explore document types"
+  },
+  "stats": {
+    "label": "Numbers with real people behind them",
+    "titleLineOne": "Built on trust,",
+    "titleLineTwo": "one document at a time.",
+    "description": "Behind every number is a student, a family, a traveler, or someone preparing for their next opportunity.",
+    "branches": "Branches in Karshi",
+    "branchesDetail": "Two convenient locations for document translation and notary-related support.",
+    "customers": "Customers served",
+    "customersDetail": "People who trusted us with documents that mattered to them.",
+    "documents": "Documents translated / served",
+    "documentsDetail": "Prepared carefully for everyday, academic and official needs.",
+    "bottomNote": "Your document is not just another paper. We treat it that way."
+  },
+  "works": {
+    "startingFrom": "Starting from",
+    "pageLabel": "Services & document types",
+    "pageTitleLineOne": "Documents made",
+    "pageTitleLineTwo": "ready for the next step.",
+    "pageDescription": "Browse common document categories, starting prices and example layouts. If your document is not listed, send us a request anyway — we will help you find the right path.",
+    "features": {
+      "notary": "Notary-ready preparation",
+      "formatting": "Careful formatting",
+      "fast": "Fast processing options",
+      "academic": "Academic document support",
+      "official": "Official document formatting"
+    },
+    "noteTitle": "Need another document translated?",
+    "noteText": "No problem. Send a request with a photo or short description. We will review it and tell you what is needed before work begins.",
+    "orderNow": "Start an order",
+    "passport": {
+      "title": "Passport translation",
+      "description": "Clear translation of passport details with careful spelling, formatting and official document structure.",
+      "price": "from 35,000 UZS",
+      "badge": "Popular",
+      "view": "View example"
+    },
+    "diploma": {
+      "title": "Diploma translation",
+      "description": "Translation of diplomas, transcripts and education-related documents for study, work and applications.",
+      "price": "from 50,000 UZS",
+      "badge": "Academic",
+      "view": "View example"
+    },
+    "birthCertificate": {
+      "title": "Birth certificate translation",
+      "description": "Accurate translation of birth certificates with names, dates, seals and document formatting preserved.",
+      "price": "from 40,000 UZS",
+      "badge": "Official",
+      "view": "View example"
+    },
+    "marriageCertificate": {
+      "title": "Marriage certificate translation",
+      "description": "Carefully prepared translation for marriage certificates and family-status documents.",
+      "price": "from 40,000 UZS",
+      "badge": "Official",
+      "view": "View example"
+    },
+    "schoolCertificate": {
+      "title": "School certificate translation",
+      "description": "Translation of school certificates, grade records and supporting education documents.",
+      "price": "from 45,000 UZS",
+      "badge": "Education",
+      "view": "View example"
+    },
+    "drivingLicense": {
+      "title": "Driving licence translation",
+      "description": "Formatted translation of driving licences for travel, applications and official use.",
+      "price": "from 35,000 UZS",
+      "badge": "Personal",
+      "view": "View example"
+    },
+    "medicalCertificate": {
+      "title": "Medical certificate translation",
+      "description": "Careful translation of medical certificates and supporting documents while keeping the original structure clear.",
+      "price": "from 50,000 UZS",
+      "badge": "Certificate",
+      "view": "View example"
+    },
+    "powerOfAttorney": {
+      "title": "Power of attorney translation",
+      "description": "Translation of powers of attorney and legal documents with attention to names, dates and formal wording.",
+      "price": "from 60,000 UZS",
+      "badge": "Legal",
+      "view": "View example"
+    },
+    "other": {
+      "title": "Other document",
+      "description": "Have a document that is not listed? Send us a photo or description and we will review the best option for you.",
+      "price": "Price on request",
+      "badge": "Flexible",
+      "view": "Send request"
+    }
+  },
+  "about": {
+    "pageLabel": "About AB Translation Center",
+    "pageTitleLineOne": "Translation is about",
+    "pageTitleLineTwo": "helping people move forward.",
+    "pageDescription": "We are a Karshi-based translation center focused on documents that need to be clear, accurate and ready for real-life use. Whether you are applying, traveling, studying, working, or handling legal paperwork, our job is to make the language part easier.",
+    "quote": "A good translation should give you confidence before you hand over your documents.",
+    "locationLabel": "Working from",
+    "valuesLabel": "What guides our work",
+    "values": {
+      "accuracyTitle": "Careful by default",
+      "accuracyText": "Names, dates, stamps and formatting matter. We check the details that cannot be guessed.",
+      "trustTitle": "Trust through clarity",
+      "trustText": "We explain what is needed, what it costs and what happens next without unnecessary confusion.",
+      "careTitle": "Human support",
+      "careText": "You can ask questions. We are here to make a document process feel manageable."
+    },
+    "journeyLabel": "Our approach",
+    "journeyOneTitle": "You send the request",
+    "journeyOneText": "Tell us what document you have, which languages are needed and whether notary approval is required.",
+    "journeyTwoTitle": "We review the details",
+    "journeyTwoText": "We confirm the scope, timing and price so you know exactly what to expect.",
+    "journeyThreeTitle": "You receive a ready document",
+    "journeyThreeText": "Your translation is prepared with care for the next step you are taking."
+  },
+  "form": {
+    "label": "Online order",
+    "fullName": "Full name",
+    "phone": "Phone number",
+    "documentType": "Document type",
+    "selectDocument": "Choose document type",
+    "fromLanguage": "Translate from",
+    "toLanguage": "Translate to",
+    "selectLanguage": "Choose language",
+    "message": "Message / details",
+    "submit": "Send request",
+    "success": "Your request is ready to send. We will contact you shortly.",
+    "responseNote": "We usually respond as soon as possible.",
+    "helpTitle": "A clear start for your document.",
+    "helpText": "Send the basics first. If we need a photo, scan, or more details, we will let you know.",
+    "notaryNote": "Translation of documents with notary approval support.",
+    "documentTypes": {
+      "passport": "Passport",
+      "diploma": "Diploma",
+      "certificate": "Certificate",
+      "other": "Other document"
+    },
+    "pageTitleLineOne": "Your next step",
+    "pageTitleLineTwo": "starts with a message.",
+    "pageDescription": "Fill in the form with the basics. We will help you turn a document question into a clear plan."
+  },
+  "footer": {
+    "description": "Clear, careful document translation for the steps that matter.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "branches": "Our branches",
+    "branchOne": "Qarshi Davlat xizmatlari markazi",
+    "branchTwo": "Qarshi Notarius 1",
+    "notaryNote": "Document translation with notary approval support.",
+    "copyright": "© 2025–2026 AB Translation Center. All rights reserved.",
+    "madeWith": "Made with care in Karshi"
+  }
+}
